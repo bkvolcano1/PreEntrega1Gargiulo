@@ -1,0 +1,13 @@
+nav{
+    display: flex;
+    justify-content: end;
+    margin-right: 5%;
+
+}
+nav .imgnav{
+    width: 6%;
+}
+nav Button .botonhome{
+    background-color: aqua;
+}    
+    

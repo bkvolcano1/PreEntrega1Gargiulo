@@ -1,0 +1,17 @@
+.header .titulo{
+    display: flex;
+    justify-content: baseline;
+    margin-left: 10%;
+}
+.header .subtitulo{
+    display: flex;
+    justify-content: baseline;
+    margin-left: 10%;
+}
+.header .add{
+    display: flex;
+    justify-content: baseline;
+    margin-left: 15%;
+    background-color: yellow;
+    color: green;
+}
